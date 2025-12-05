@@ -1,20 +1,25 @@
-# Hi there, I'm Harry 👋
+# 👋 Hi, I'm Harry Hoang
 
-🏫 Major in Computer Science at the University of British Columbia
-
-📚 Dive deep into data analysis, machine learning, and programming with Python and R.
-
-🏀 Love playing basketball, strumming my guitar, and hitting the gym. These activities help me stay balanced and energized, ready to take on new challenges.
-
-### Skills and Experience
-- **Programming languages:** Python, R, Java, C
-- **Statistical inference:** Hypotesis Testing, A/B Testing
-- **Statistical Modeling:** KNN Regression, KNN Classification, Linear Regression, Logistic Regression, Poisson Regression.
-- **System Designs:** Object Oriented, Composite Pattern, Observer Pattern, Singleton Pattern. 
+**Computer Science & Statistics** @ University of British Columbia  
 
 
-### Contact:
-- [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
+---
 
-- 📬 theanhhoang0201@gmail.com
+## 🔧 Technical Focus
+
+**Simulation & Autonomy Infrastructure**  
+- NVIDIA Isaac Sim & ROS 2 – Digital twins, multi‑agent simulation, SITL validation  
+- GPU‑accelerated perception – cuPCL, CUDA, real‑time point cloud processing  
+- Systems architecture – Multi‑process scaling, shared‑memory IPC, OOP design patterns  
+- Deployment & DevOps – Docker, GitLab CI, reproducible pipelines  
+
+**Robotics Stack**  
+ `Python` `C++` `ROS 2` `CUDA` `Docker` `Git` `Linux` `Isaac Sim`   
+
+---
+## 📫 Let's Connect
+
+- **Email:** theanhhoang0201@gmail.com  
+- **LinkedIn:** [linkedin.com/in/harry‑hoang](https://www.linkedin.com/in/harry-hoang/)  
+
+---
